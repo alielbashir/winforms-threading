@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fe297c69-f4d8-4caa-894a-911cb55b9245": {
+      "ProjectGuid": "fe297c69-f4d8-4caa-894a-911cb55b9245",
+      "DisplayName": "threading-test",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
